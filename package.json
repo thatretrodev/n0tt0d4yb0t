@@ -1,0 +1,19 @@
+{
+  "name": "n0tt0d4yb0t",
+  "version": "1.0.0",
+  "description": "A discord bot that prevents spam in discord servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatretrodev/n0tt0d4yb0t.git"
+  },
+  "author": "thatretrodev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thatretrodev/n0tt0d4yb0t/issues"
+  },
+  "homepage": "https://github.com/thatretrodev/n0tt0d4yb0t#readme"
+}
