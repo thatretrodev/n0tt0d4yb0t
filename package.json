@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thatretrodev/n0tt0d4yb0t/issues"
   },
-  "homepage": "https://github.com/thatretrodev/n0tt0d4yb0t#readme"
+  "homepage": "https://github.com/thatretrodev/n0tt0d4yb0t#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
